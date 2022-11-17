@@ -17,8 +17,7 @@ disponível de forma gratuita no seguinte link: http://www.codeblocks.org/) que 
 utilizado pelos hospitais para cadastrar os pacientes que forem diagnosticados com covid-19
 e carecem de um acompanhamento e monitoramento. 
 
-Ao receber o diagnóstico positivo os
-profissionais da saúde devem realizar o login no sistema (informando o usuário e a senha) e
+Ao receber o diagnóstico positivo os profissionais da saúde devem realizar o login no sistema (informando o usuário e a senha) e
 informar os dados pessoais do paciente, como:
 - Nome;
 - CPF;
@@ -26,10 +25,10 @@ informar os dados pessoais do paciente, como:
 - Endereço (Rua, Número, Bairro, Cidade, Estado e CEP);
 - Data de Nascimento;
 - E-mail;
-- data do diagnóstico;
-- informar alguma comorbidade do paciente (diabetes, obesidade, hipertensão, tuberculose, outros;
+- Data do diagnóstico;
+- Informar alguma comorbidade do paciente (diabetes, obesidade, hipertensão, tuberculose, outros);
 
-que serão salvos em um Arquivo (a principal vantagem de um arquivo é que as informações
+Serão salvos em um arquivo (a principal vantagem de um arquivo é que as informações
 armazenadas podem ser consultadas a qualquer momento).
 
 Após o cadastro, o sistema deverá calcular a idade e verificar se o paciente possui
