@@ -1,0 +1,26 @@
+NOME: Theo
+CPF: 44455566699
+TELEFONE: 11987654321
+ENDERE�O: rua jacare, n� 123
+BAIRRO: albino
+CIDADE: sao paulo - sp
+CEP: 08525525
+DATA DE NASCIMENTO: 2 / 17 / 996
+E-MAIL: theo.theo@gmail.com
+DATA DO DIAGN�STICO: 1336338 / 536870912 / 2
+COMORBIDADES: sdas
+
+
+NOME: Lolla
+CPF: 11122233354
+TELEFONE: 11982546354
+ENDERECO: rua napoleao bonaparte, N 190
+BAIRRO: planalto
+CIDADE: sao bernardo do campsp - sp
+CEP: 09895540
+DATA DE NASCIMENTO: 20 / 3 / 2019
+E-MAIL: lolla@gmail.com
+DATA DO DIAGNOSTICO: 2 / 3 / 2022
+COMORBIDADES: nao
+
+
